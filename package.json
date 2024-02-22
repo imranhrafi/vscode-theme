@@ -1,0 +1,21 @@
+{
+  "name": "theme-from-rafi",
+  "displayName": "theme from rafi",
+  "description": "Light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme by Rafi",
+        "uiTheme": "vs",
+        "path": "./themes/Theme by Rafi-color-theme.json"
+      }
+    ]
+  }
+}
